@@ -17,3 +17,9 @@ Nanci:
 
 # Files Enclosed:
 
+ECC Generator: 
+
+13-bit Data Transmissions:
+
+Main Memory: 
+
